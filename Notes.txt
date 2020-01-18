@@ -1,0 +1,9 @@
+Chat Bot
+Summary: extension sends periodic messages to user about their health and asks if the user wants to talk.  If the user wants to talk,
+    then the chatbot will respond.
+
+Tasks:
+    -create a chat platform
+    -create a responsive Bot
+    -have relevant responses
+    -sentiment analysis
